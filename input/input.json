@@ -4,6 +4,6 @@
         "nt": 200000
     }, 
     "bath": {
-        "temperature": 1
+        "temperature": 1.0
     }
 }
