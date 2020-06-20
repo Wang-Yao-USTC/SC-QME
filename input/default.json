@@ -1,0 +1,9 @@
+{
+    "syst": {
+        "hamsFile": "inp_hams.mat",
+        "qmdsFile": "inp_qmds.mat"
+    },
+    "bath": {
+        "temperature": "1.0"
+    }
+}
