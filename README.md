@@ -1,2 +1,2 @@
-# SC-QME
+# SCQME
 Self-Consistent Quantum Master Equation
